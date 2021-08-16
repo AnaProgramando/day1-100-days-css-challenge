@@ -18,7 +18,7 @@ Acesse os desafios <a href="https://100dayscss.com/">clicando aqui</a>!
 
 ## Dúvidas
 
-Se precisar de ajuda, conte comigo comigo 😉
+Se precisar de ajuda, conte comigo 😉
 
 [<img align="left" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/C4PFK4W4HN)
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
